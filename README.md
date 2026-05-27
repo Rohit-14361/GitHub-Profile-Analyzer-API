@@ -57,6 +57,7 @@ Create `.env` file:
 ```env
 DATABASE_URL="mysql://root:password@localhost:3306/github_analyzer"
 PORT=3000
+GITHUB_LINK=https://api.github.com/users/
 
 4. Run Prisma Migration
 npx prisma migrate dev --name init
