@@ -26,6 +26,16 @@ A backend REST API built with **Node.js, Express.js, Prisma ORM, and MySQL** tha
 
 ---
 
+## 🚀 Additional Improvements / Features
+
+- Used Prisma ORM with MySQL for type-safe database operations
+- Implemented `upsert` to prevent duplicate GitHub profiles
+- Structured backend using MVC architecture (Controller, Routes, Config)
+- Added error handling for API failures
+- Modular and scalable code structure
+- Clean REST API design for better maintainability
+
+
 ## 🚀 Setup Instructions
 
 ### 1. Clone Repository
