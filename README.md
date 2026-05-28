@@ -35,6 +35,20 @@ A backend REST API built with **Node.js, Express.js, Prisma ORM, and MySQL** tha
 - Modular and scalable code structure
 - Clean REST API design for better maintainability
 
+## ☁️ Cloud Deployment (AWS)
+
+* Backend API deployed on AWS EC2 instance
+* MySQL database hosted on AWS RDS
+* Configured Security Groups and inbound rules for secure access
+* Used PM2 for process management and auto-restart
+* Public API deployment accessible via EC2 public IP
+* Production-ready backend deployment setup
+
+### Live Deployment URL
+
+http://16.170.231.212:3000
+
+
 
 ## 🚀 Setup Instructions
 
